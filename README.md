@@ -9,3 +9,7 @@ Aim Trainer made with the Pygame library for first person shooters. Uses window 
 ## Future plans
 - option to change crosshair and crosshair color
 - option to change target color
+
+---
+
+![In-game screenshot](https://i.gyazo.com/46d6044aa49e8e65a012b46a90eacf9f.png)
