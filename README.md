@@ -13,7 +13,7 @@ Aim Trainer made with the Pygame library for first person shooters. Uses window 
 
 ## How to run
 Assuming you already have pip installed, run
+
 `pip install pygame`
----
 
 ![In-game screenshot](https://i.gyazo.com/46d6044aa49e8e65a012b46a90eacf9f.png)
