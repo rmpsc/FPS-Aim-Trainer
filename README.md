@@ -1,3 +1,5 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # FPS-Aim-Trainer
 Aim Trainer made with the Pygame library for first person shooters. Uses window sensitiviy; future plans to implement sensitivity conversions for popular games.
 
