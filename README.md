@@ -1,8 +1,7 @@
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/rmpsc/)
-
 # FPS-Aim-Trainer
-Aim Trainer made with the Pygame library for first person shooters. Uses window sensitiviy; future plans to implement sensitivity conversions for popular games.
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/rmpsc/)  
+Aim Trainer made with the Pygame library for first person shooters.
 
 ## Current features
 - menu screen, in-game screen, results screen
