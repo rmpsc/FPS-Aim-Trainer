@@ -6,7 +6,6 @@ Aim Trainer made with the Pygame library for first person shooters.
 ## Current features
 - menu screen, in-game screen, results screen
 - gunshot, high score, and game over sounds
-- 1 gamemode: Gridshot
 
 ## Future plans
 - option to change crosshair and crosshair color
