@@ -1,7 +1,6 @@
-Operating System Aim Trainer
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/rmpsc/)  
-Aim Trainer made with the Pygame library for first person shooters.
+# Operating System Aim Trainer
+
+Aim trainer developed with Pygame implementing target sprites to practice operating system sensitivity in 30 second intervals
 
 ## Current features
 - menu screen, in-game screen, results screen
