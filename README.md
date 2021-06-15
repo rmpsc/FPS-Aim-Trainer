@@ -1,6 +1,6 @@
 # Operating System Aim Trainer
 
-Aim trainer developed with Pygame implementing target sprites to practice operating system sensitivity in 30 second intervals
+Operating System aim trainer developed with Pygame implementing target sprites to practice OS sensitivity in 30 second intervals
 
 ## Current features
 - menu screen, in-game screen, results screen
